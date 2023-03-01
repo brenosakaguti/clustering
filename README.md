@@ -18,6 +18,6 @@ Para realizar a clusterização, foram separadas algumas das *features* presente
 
 Analisando o resto das *features*, tentando encontrar variáveis que apresentassem uma boa distribuição e evitar redundância, chegamos a quatro *features*: Recência (numero de dias desde a última compra), Frequência (número de compras no período), Tíquete Médio e Número de Devoluções.
 
-![Tabela de features](features_table.png)
+![Tabela de features](images/features_table.png)
 
 *Indicadores estatísticos das features*
